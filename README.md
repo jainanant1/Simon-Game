@@ -1,0 +1,2 @@
+# Simon-Game
+The game has four coloured buttons, each producing a particular tone when it is clicked. A round in the game consists of the device lighting up one button in a random order, after which the player must reproduce that order by pressing the buttons. The game creates a series of tones and lights and requires a user to repeat the sequence. If the user succeeds, the series becomes progressively longer and more complex.
